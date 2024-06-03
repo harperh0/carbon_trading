@@ -60,7 +60,9 @@ The project is organised into distinct modules, each dedicated to a specific asp
     - Transforming the data into a suitable format for storage and analysis.
     - Utilising MySQL as the database management system (DBMS) to store processed data and facilitate efficient data retrieval and manipulation.
     - Integration with MySQL database using packages like `config` and establishing a connection through MAMP for Mac users.
-  - For additional guidance on data processing techniques, MySQL database management, and establishing connections with MAMP, relevant online tutorials and documentation resources are recommended.
+    - Visualising insights using libraries such as Matplotlib, Seaborn, Plotly, and Folium.
+    - Saving Folium maps as 'map.html' and 'credit.html', which can be found in the project files for further exploration.
+  - For additional guidance on data processing techniques, MySQL database management, establishing connections with MAMP, and creating interactive maps with Folium, relevant online tutorials and documentation resources are recommended.
 
 ## Acknowledgments
 
