@@ -10,7 +10,7 @@ This code is made available for limited use under the following terms and condit
 
 3. **Restrictions:** This code may not be copied, modified, distributed, or used for any commercial purposes without explicit written permission from the copyright owner.
 
-4. **Copyright Notice:** The copyright for this code is owned by Hsin Pai, 2023. All rights reserved.
+4. **Copyright Notice:** The copyright for this code is owned by Hsin Pai, 2024. All rights reserved.
 
 5. **No Warranties:** This code is provided "as is" without any warranties, expressed or implied.
 
