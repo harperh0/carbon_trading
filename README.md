@@ -36,7 +36,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Data Scarping Module
 
-- Code files: carbon.py
+- Code files: 'carbon.py'
 - Documentation: The data scraping process is primarily executed using the `selenium` package in Python, which facilitates automated web browsing and data extraction from dynamic web pages.
   - Detailed documentation explaining the implementation of Selenium within the `carbon.py` script is provided within the script itself as comments.
   - Key functionalities covered include:
@@ -49,7 +49,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Data Processing and Visualisation Module
 
-- Code files: carbon.ipynb
+- Code files: 'carbon.ipynb'
 - Database: MySQL
 - Documentation: The data processing module involves the `carbon.ipynb` Jupyter Notebook, which serves as the primary environment for data analysis, transformation, and exploration.
   - Detailed documentation and explanatory comments are provided within the notebook itself, guiding users through each step of the data processing pipeline.
