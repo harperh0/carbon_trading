@@ -4,13 +4,13 @@
 
 ### Data Scraping
 
-Crafted a Python script **carbonWeb.py** to initiate the web scraping process. Modify the script to specify the endpoints of the web pages of National Renewable Energy Certification Center from which data needs to be scraped.
+Crafted a Python script `carbonWeb.py` to initiate the web scraping process. Modify the script to specify the endpoints of the web pages of National Renewable Energy Certification Center from which data needs to be scraped.
 - Scope: Data from 2020 to 2024, including certification trading (transaction/remaining number of certifications), supply number.
 - Method: Scraped using Selenium, loaded and written to CSV files.
 
 ### Data Processing
 
-1. Datasets: World Bank Carbon Pricing (**WorldBank_carbon_pricing.xlsx**)
+1. Datasets: World Bank Carbon Pricing (`WorldBank_carbon_pricing.xlsx`)
 - Content: Compliance gen_info, details, revenues, emissions, Crediting details, issuances, etc.
 - Update: Data updated on 1 April 2024 or 31 December 2023
 
@@ -36,7 +36,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Data Scarping Module
 
-- Code files: **carbon.py**
+- Code files: `carbon.py`
 - Documentation: The data scraping process is primarily executed using the **selenium** package in Python, which facilitates automated web browsing and data extraction from dynamic web pages.
   - Detailed documentation explaining the implementation of Selenium within the Python script is provided within the script itself as comments.
   - Key functionalities covered include:
@@ -49,7 +49,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
 
 ### Data Processing and Visualisation Module
 
-- Code files: **carbon.ipynb**
+- Code files: `carbon.ipynb`
 - Database: MySQL
 - Documentation: The data processing module involves the Jupyter Notebook, which serves as the primary environment for data analysis, transformation, and exploration.
   - Detailed documentation and explanatory comments are provided within the notebook itself, guiding users through each step of the data processing pipeline.
@@ -61,7 +61,7 @@ The project is organised into distinct modules, each dedicated to a specific asp
     - Utilising MySQL as the database management system (DBMS) to store processed data and facilitate efficient data retrieval and manipulation.
     - Integration with MySQL database using packages like **config** and establishing a connection through MAMP for Mac users.
     - Visualising insights using libraries such as Matplotlib, Seaborn, Plotly, and Folium.
-    - Saving Folium maps as **map.html** and **credit.html**, which can be found in the project files for further exploration.
+    - Saving Folium maps as `map.html` and `credit.html`, which can be found in the project files for further exploration.
   - For additional guidance on data processing techniques, MySQL database management, establishing connections with MAMP, and creating interactive maps with Folium, relevant online tutorials and documentation resources are recommended.
 
 ## Acknowledgments
