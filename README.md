@@ -4,7 +4,7 @@
 
 ### Data Scraping
 
-Crafted a Python script **carbonWeb.py** to initiate the web scraping process. Modify the script to specify the endpoints of the web pages of National Renewable Energy Certification Center from which data needs to be scraped.
+Crafted a Python script 🐍carbonWeb.py🐍 to initiate the web scraping process. Modify the script to specify the endpoints of the web pages of National Renewable Energy Certification Center from which data needs to be scraped.
 - Scope: Data from 2020 to 2024, including certification trading (transaction/remaining number of certifications), supply number.
 - Method: Scraped using Selenium, loaded and written to CSV files.
 
