@@ -12,7 +12,7 @@ Crafted a Python script `carbonWeb.py` to initiate the web scraping process. Mod
 
 1. Datasets: World Bank Carbon Pricing
 - Content: Compliance gen_info, details, revenues, emissions, Crediting details, issuances, etc.
-- Update: Data updated on 1 April 2024
+- Update: Data updated on 1 April 2024 or 31 December 2023
 
 2. National Renewable Energy Certification Center
 - Content: Supplier, Buyer, Trans_num, Remaining_num, etc.
