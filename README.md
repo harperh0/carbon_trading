@@ -21,7 +21,7 @@ Crafted a Python script `carbonWeb.py` to initiate the web scraping process. Mod
 
 ### Data Visualisation
 
-1. Utilised libraries such as Matplotlib, Seaborn, or Plotly within Python to create visualisations based on the processed data.
+1. Utilised libraries such as Matplotlib, Seaborn, Folium or Plotly within Python to create visualisations based on the processed data.
 2. Implement appropriate visualisation techniques such as line plots, bar charts, heatmaps, etc., to effectively communicate insights and trends present in the data.
 
 ## Technologies Used
